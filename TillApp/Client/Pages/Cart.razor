@@ -1,0 +1,168 @@
+﻿@page "/Cart";
+@inject ICartService cartService;
+@inject IToastService toastService;
+
+<div class="pageWrapper">
+    <!--Search Form Drawer-->
+    <div class="search">
+        <div class="search__form">
+            <form class="search-bar__form" action="#">
+                <button class="go-btn search__button" type="submit"><i class="icon anm anm-search-l"></i></button>
+                <input class="search__input" type="search" name="q" value="" placeholder="Search entire store..." aria-label="Search" autocomplete="off">
+            </form>
+            <button type="button" class="search-trigger close-btn"><i class="icon anm anm-times-l"></i></button>
+        </div>
+    </div>
+    <!--End Search Form Drawer-->
+
+    <CustomeLayout></CustomeLayout>
+    <!--Body Content-->
+    <div id="page-content">
+        <!--Page Title-->
+        <div class="page section-header text-center">
+            <div class="page-title">
+                <div class="wrapper"><h1 class="page-width">Your cart</h1></div>
+            </div>
+        </div>
+        <!--End Page Title-->
+
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-8 col-lg-8 main-col">
+                    <form action="#" method="post" class="cart style2">
+                        <table>
+                            <thead class="cart__row cart__header">
+                                <tr>
+                                    <th colspan="2" class="text-center">Product</th>
+                                    <th class="text-center">Price</th>
+                                    <th class="text-center">Quantity</th>
+                                    <th class="text-right">Total</th>
+                                    <th class="action">&nbsp;</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (cartItems.Any())
+                                {
+                                    @foreach (var item in cartItems)
+                                    {
+                                        <tr class="cart__row border-bottom line1 cart-flex border-top">
+                                            <td class="cart__image-wrapper cart-flex-item">
+                                                <a href="#"><img class="cart__image" src="assets/images/products/DefaultProduct.jpg" alt="@item.ProductTitle"></a>
+                                            </td>
+                                            <td class="cart__meta small--text-left cart-flex-item">
+                                                <div class="list-view-item__title">
+                                                    <a href="#">@item.ProductTitle </a>
+                                                </div>
+
+                                            </td>
+                                            <td class="cart__price-wrapper cart-flex-item">
+                                                <span class="money">@item.Price EGP</span>
+                                            </td>
+                                            <td class="cart__update-wrapper cart-flex-item text-right">
+                                                <div class="cart__qty text-center">
+                                                    <div class="qtyField">
+                                                        <input type="button" class="qtyBtn minus" @onclick="(()=>DecrementItem(item))" value="-">
+                                                        <input readonly class="cart__qty-input qty" type="text" id="qty" @bind="item.Quantity" @oninput="@((e) => { item.Quantity=(int)e.Value;})" pattern="[0-9]*">
+                                                        <input type="button" class="qtyBtn plus" @onclick="(()=>IncrementItem(item))" value="+">
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td class="text-right small--hide cart-price">
+                                                <div><span class="money">@(item.Price*item.Quantity)</span></div>
+                                            </td>
+                                            <td class="text-center small--hide"><a @onclick="(() => RemoveItem(item))" class="btn btn--secondary cart__remove" title="Remove Item"><i class="icon icon anm anm-times-l"></i></a></td>
+                                        </tr>
+                                    }
+                                }
+                                else
+                                {
+                                    <tr>
+                                        <td style="text-align:center" rowspan="4">No items in the cart</td>
+                                    </tr>
+                                }
+
+
+                            </tbody>
+                            <tfoot>
+                                <tr>
+                                    <td colspan="3" class="text-left"><a href="../" class="btn--link cart-continue"><i class="icon icon-arrow-circle-left"></i> Continue shopping</a></td>
+                                </tr>
+                            </tfoot>
+                        </table>
+
+                        <div class="currencymsg">We processes all orders in USD. While the content of your cart is currently displayed in EGP, the checkout will use USD at the most current exchange rate.</div>
+                        <hr>
+                    </form>
+                </div>
+                <div class="col-12 col-sm-12 col-md-4 col-lg-4 cart__footer">
+                    <div class="cart-note">
+                        <div class="solid-border">
+                            <h5><label for="CartSpecialInstructions" class="cart-note__label small--text-center">Add Order Name </label></h5>
+                            <input @bind="OrderName" name="note" id="CartSpecialInstructions" class="form-control"/>
+                        </div>
+                    </div>
+                    <div class="solid-border">
+                        <div class="row">
+                            <span class="col-12 col-sm-6 cart__subtotal-title"><strong>Subtotal</strong></span>
+                            <span class="col-12 col-sm-6 cart__subtotal-title cart__subtotal text-right"><span class="money">@cartItems.Sum(item => item.Price * item.Quantity) EGP</span></span>
+                        </div>
+                        <div class="cart__shipping">Shipping &amp; taxes calculated at checkout</div>
+                        <input @onclick="(() => SubmitOrder(OrderName))" type="button" name="checkout" id="cartCheckout" class="btn btn--small-wide checkout" value="Checkout">
+                        <div class="paymnet-img"><img src="assets/images/payment-img.jpg" alt="Payment"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End Body Content-->
+    <!--Footer-->
+    <Footer></Footer>
+    <!--End Footer-->
+    <!--Scoll Top-->
+    <span id="site-scroll"><i class="icon anm anm-angle-up-r"></i></span>
+    <!--End Scoll Top-->
+</div>
+@code {
+    List<CartItem> cartItems = new List<CartItem>();
+    public string OrderName { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        cartItems = await cartService.GetCartItems();
+    }
+    private async Task RemoveItem(CartItem item)
+    {
+        await cartService.DeleteItem(item);
+        cartItems = await cartService.GetCartItems();
+    }
+
+    private async Task IncrementItem(CartItem item)
+    {
+        item.Quantity++;
+        await cartService.IncrementItem(item);
+    }
+
+    private async Task DecrementItem(CartItem item)
+    {
+        if (item.Quantity > 1)
+            item.Quantity--;
+        await cartService.DecrementItem(item);
+    }
+
+    private async Task UpdateItemQuantity(CartItem item)
+    {
+        await cartService.UpdateItemQuantity(item);
+    }
+
+    private async Task SubmitOrder(string orderName)
+    {
+        if (string.IsNullOrWhiteSpace(orderName))
+        {
+            toastService.ShowError("Order name is requierd");
+            return;
+        }
+        await cartService.SubmitOrder(orderName);
+        cartItems = await cartService.GetCartItems();
+        OrderName = string.Empty;
+    }
+}

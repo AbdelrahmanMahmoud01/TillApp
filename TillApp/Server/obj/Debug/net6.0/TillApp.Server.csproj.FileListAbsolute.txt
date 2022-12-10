@@ -1,0 +1,413 @@
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Client.staticwebassets.runtime.json
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\appsettings.json
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.staticwebassets.runtime.json
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.exe
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.deps.json
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.runtimeconfig.json
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.pdb
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Azure.Core.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Azure.Identity.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Humanizer.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\System.CodeDom.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\System.Text.Json.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Client.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Shared.dll
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Client.pdb
+D:\Practis\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Shared.pdb
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.csproj.AssemblyReference.cache
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.AssemblyInfoInputs.cache
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.AssemblyInfo.cs
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.csproj.CoreCompileInputs.cache
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.RazorAssemblyInfo.cache
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.RazorAssemblyInfo.cs
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\scopedcss\bundle\TillApp.Server.styles.css
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.csproj.CopyComplete
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.dll
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\refint\TillApp.Server.dll
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.pdb
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.genruntimeconfig.cache
+D:\Practis\TillApp\TillApp\Server\obj\Debug\net6.0\ref\TillApp.Server.dll
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.csproj.AssemblyReference.cache
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.AssemblyInfoInputs.cache
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.AssemblyInfo.cs
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.csproj.CoreCompileInputs.cache
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.RazorAssemblyInfo.cache
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.RazorAssemblyInfo.cs
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Client.staticwebassets.runtime.json
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\appsettings.Development.json
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\appsettings.json
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.staticwebassets.runtime.json
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.exe
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.deps.json
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.runtimeconfig.json
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.pdb
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Azure.Core.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Azure.Identity.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Blazored.Toast.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Humanizer.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\System.CodeDom.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Memory.Data.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Text.Json.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Client.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Shared.dll
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Client.pdb
+E:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Shared.pdb
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\staticwebassets.build.json
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\staticwebassets.development.json
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\scopedcss\bundle\TillApp.Server.styles.css
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.csproj.CopyComplete
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.dll
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\refint\TillApp.Server.dll
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.pdb
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.genruntimeconfig.cache
+E:\TillApp\TillApp\Server\obj\Debug\net6.0\ref\TillApp.Server.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\appsettings.Development.json
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\appsettings.json
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Client.staticwebassets.runtime.json
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.staticwebassets.runtime.json
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.exe
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.deps.json
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.runtimeconfig.json
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.pdb
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Azure.Core.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Azure.Identity.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Blazored.Toast.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Humanizer.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\System.CodeDom.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Memory.Data.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Text.Json.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Client.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Shared.dll
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Client.pdb
+F:\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Shared.pdb
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.csproj.AssemblyReference.cache
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.AssemblyInfoInputs.cache
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.AssemblyInfo.cs
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.csproj.CoreCompileInputs.cache
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.MvcApplicationPartsAssemblyInfo.cache
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.RazorAssemblyInfo.cache
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.RazorAssemblyInfo.cs
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\staticwebassets.build.json
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\staticwebassets.development.json
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\scopedcss\bundle\TillApp.Server.styles.css
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.csproj.CopyComplete
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.dll
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\refint\TillApp.Server.dll
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.pdb
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.genruntimeconfig.cache
+F:\TillApp\TillApp\Server\obj\Debug\net6.0\ref\TillApp.Server.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Client.staticwebassets.runtime.json
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\appsettings.json
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.staticwebassets.runtime.json
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.exe
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.deps.json
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.runtimeconfig.json
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Server.pdb
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Azure.Core.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Azure.Identity.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Blazored.Modal.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Blazored.Toast.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Humanizer.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\Radzen.Blazor.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\System.CodeDom.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\System.Memory.Data.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\System.Text.Json.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Client.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Shared.dll
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Client.pdb
+D:\New TillApp\TillApp\TillApp\Server\bin\Debug\net6.0\TillApp.Shared.pdb
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.csproj.AssemblyReference.cache
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.AssemblyInfoInputs.cache
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.AssemblyInfo.cs
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.csproj.CoreCompileInputs.cache
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.RazorAssemblyInfo.cache
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.RazorAssemblyInfo.cs
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\scopedcss\bundle\TillApp.Server.styles.css
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.csproj.CopyComplete
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.dll
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\refint\TillApp.Server.dll
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.pdb
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\TillApp.Server.genruntimeconfig.cache
+D:\New TillApp\TillApp\TillApp\Server\obj\Debug\net6.0\ref\TillApp.Server.dll

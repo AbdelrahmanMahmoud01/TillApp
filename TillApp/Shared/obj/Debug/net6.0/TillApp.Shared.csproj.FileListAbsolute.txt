@@ -1,0 +1,36 @@
+D:\Practis\TillApp\TillApp\Shared\bin\Debug\net6.0\TillApp.Shared.deps.json
+D:\Practis\TillApp\TillApp\Shared\bin\Debug\net6.0\TillApp.Shared.dll
+D:\Practis\TillApp\TillApp\Shared\bin\Debug\net6.0\TillApp.Shared.pdb
+D:\Practis\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.csproj.AssemblyReference.cache
+D:\Practis\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practis\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.AssemblyInfoInputs.cache
+D:\Practis\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.AssemblyInfo.cs
+D:\Practis\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.csproj.CoreCompileInputs.cache
+D:\Practis\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.dll
+D:\Practis\TillApp\TillApp\Shared\obj\Debug\net6.0\refint\TillApp.Shared.dll
+D:\Practis\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.pdb
+D:\Practis\TillApp\TillApp\Shared\obj\Debug\net6.0\ref\TillApp.Shared.dll
+E:\TillApp\TillApp\Shared\bin\Debug\net6.0\TillApp.Shared.deps.json
+E:\TillApp\TillApp\Shared\bin\Debug\net6.0\TillApp.Shared.dll
+E:\TillApp\TillApp\Shared\bin\Debug\net6.0\TillApp.Shared.pdb
+E:\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.csproj.AssemblyReference.cache
+E:\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.AssemblyInfoInputs.cache
+E:\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.AssemblyInfo.cs
+E:\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.csproj.CoreCompileInputs.cache
+E:\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.dll
+E:\TillApp\TillApp\Shared\obj\Debug\net6.0\refint\TillApp.Shared.dll
+E:\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.pdb
+E:\TillApp\TillApp\Shared\obj\Debug\net6.0\ref\TillApp.Shared.dll
+D:\New TillApp\TillApp\TillApp\Shared\bin\Debug\net6.0\TillApp.Shared.deps.json
+D:\New TillApp\TillApp\TillApp\Shared\bin\Debug\net6.0\TillApp.Shared.dll
+D:\New TillApp\TillApp\TillApp\Shared\bin\Debug\net6.0\TillApp.Shared.pdb
+D:\New TillApp\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.csproj.AssemblyReference.cache
+D:\New TillApp\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\New TillApp\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.AssemblyInfoInputs.cache
+D:\New TillApp\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.AssemblyInfo.cs
+D:\New TillApp\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.csproj.CoreCompileInputs.cache
+D:\New TillApp\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.dll
+D:\New TillApp\TillApp\TillApp\Shared\obj\Debug\net6.0\refint\TillApp.Shared.dll
+D:\New TillApp\TillApp\TillApp\Shared\obj\Debug\net6.0\TillApp.Shared.pdb
+D:\New TillApp\TillApp\TillApp\Shared\obj\Debug\net6.0\ref\TillApp.Shared.dll

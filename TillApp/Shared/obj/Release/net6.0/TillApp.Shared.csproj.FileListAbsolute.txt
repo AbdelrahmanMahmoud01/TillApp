@@ -1,0 +1,12 @@
+D:\New TillApp\TillApp\TillApp\Shared\bin\Release\net6.0\TillApp.Shared.deps.json
+D:\New TillApp\TillApp\TillApp\Shared\bin\Release\net6.0\TillApp.Shared.dll
+D:\New TillApp\TillApp\TillApp\Shared\bin\Release\net6.0\TillApp.Shared.pdb
+D:\New TillApp\TillApp\TillApp\Shared\obj\Release\net6.0\TillApp.Shared.csproj.AssemblyReference.cache
+D:\New TillApp\TillApp\TillApp\Shared\obj\Release\net6.0\TillApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\New TillApp\TillApp\TillApp\Shared\obj\Release\net6.0\TillApp.Shared.AssemblyInfoInputs.cache
+D:\New TillApp\TillApp\TillApp\Shared\obj\Release\net6.0\TillApp.Shared.AssemblyInfo.cs
+D:\New TillApp\TillApp\TillApp\Shared\obj\Release\net6.0\TillApp.Shared.csproj.CoreCompileInputs.cache
+D:\New TillApp\TillApp\TillApp\Shared\obj\Release\net6.0\TillApp.Shared.dll
+D:\New TillApp\TillApp\TillApp\Shared\obj\Release\net6.0\refint\TillApp.Shared.dll
+D:\New TillApp\TillApp\TillApp\Shared\obj\Release\net6.0\TillApp.Shared.pdb
+D:\New TillApp\TillApp\TillApp\Shared\obj\Release\net6.0\ref\TillApp.Shared.dll

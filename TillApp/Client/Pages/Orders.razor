@@ -1,0 +1,61 @@
+﻿@page "/orders"
+@inject IModalService modal
+@inject IOrderService _orderService
+
+<CustomeLayout></CustomeLayout>
+
+@if (ordersList.Any())
+{
+    <RadzenGrid ShowPagingSummary="true" Responsive="true"
+            AllowPaging="true" AllowFiltering="true" FilterCaseSensitivity="FilterCaseSensitivity.CaseInsensitive"
+            PageSize="10" AllowSorting="true" AllowColumnResize="true"
+            Data="@ordersList" TItem="Order" ColumnWidth="150px">
+        <Columns>
+            <RadzenGridColumn TItem="Order" Property="OrderName" Title="Order Name"></RadzenGridColumn>
+            <RadzenGridColumn TItem="Order" Property="Money" Title="Order Price"></RadzenGridColumn>
+            <RadzenGridColumn TItem="Order" Property="IsPaid" Title="Is Paid"></RadzenGridColumn>
+            <RadzenGridColumn Filterable="false" TItem="Order" Property="Id" Title="Action" Width="75px">
+                <Template Context="selectedData">
+                    <RadzenButton ButtonStyle="ButtonStyle.Info" Size="ButtonSize.Medium" Text="Details"
+                              Click="@(async () => await OnEditItemAsync(selectedData.Id))" />
+                </Template>
+            </RadzenGridColumn>
+        </Columns>
+    </RadzenGrid>
+    <div class="mt-2">
+        <span class="mr-2 badge bg-info text-dark">Total orders: <b>@ordersList.Count()</b></span>
+        <span class="mr-2 badge bg-success">Total paid orders: <b>@PaidOrders</b></span>
+        <span class="mr-2 badge bg-warning text-dark">Total none paid orders: <b>@NonePaidOrders</b></span>
+    </div>
+
+    <Footer></Footer>
+}
+else
+{
+    <div>Loading...</div>
+}
+@code {
+    IEnumerable<Order> ordersList = new List<Order>();
+    public int PaidOrders { get; set; }
+    public int NonePaidOrders { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        await InializeData();
+    }
+
+    private async Task OnEditItemAsync(int ItemId)
+    {
+        var parameters = new ModalParameters()
+            .Add(nameof(_OrderDetailsModal.ItemId), ItemId);
+        modal.Show<_OrderDetailsModal>("Order Details", parameters);
+        ordersList = await _orderService.GetOrdersAsync();
+        StateHasChanged();
+    }
+
+    private async Task InializeData()
+    {
+        ordersList = await _orderService.GetOrdersAsync();
+        NonePaidOrders = ordersList.Where(x => x.IsPaid == false).Count();
+        PaidOrders = ordersList.Where(x => x.IsPaid == true).Count();
+    }
+}
